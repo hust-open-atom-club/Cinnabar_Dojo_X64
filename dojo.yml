@@ -2,7 +2,9 @@ id: cinnabar
 
 name: 红莲道馆
 
-type: topic
+type: intermediate
+
+comparator: 3000
 
 award:
   belt: Volcano
