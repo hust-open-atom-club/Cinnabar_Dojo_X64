@@ -8,3 +8,7 @@ comparator: 3000
 
 award:
   emoji: Volcano
+
+challenges:
+  - id: simple-demo
+    icon: Chansey
