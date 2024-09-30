@@ -9,6 +9,6 @@ comparator: 3000
 award:
   emoji: Volcano
 
-challenges:
+modules:
   - id: simple-demo
     icon: Chansey
